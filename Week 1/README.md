@@ -6,7 +6,7 @@ In this task, I implemented xgboost classification algorithm.
 2. Created a np array of arithmatic progession staring from 0.05 to 0.95 with difference of 0.05. These are the training sizes.
 3. For each size, the model was trained and train and test loss was calculated. The loss function used here is mlogloss.
 4. Then the graph was plotted and it was seen that train : test ratio of 0.8 : 0.2 is the optimal one.
-![alt text]([output.png](https://github.com/Megh-Gohil/Image-Captioning-SOC/blob/main/Week%201/output.png))
+![alt text](https://github.com/Megh-Gohil/Image-Captioning-SOC/blob/main/Week%201/output.png)
 
 ## Week 1 - Task 2
 In this task, I implemented KNN, Naive-Bayes, Decision tree classification algorithm.
@@ -16,11 +16,8 @@ In this task, I implemented KNN, Naive-Bayes, Decision tree classification algor
 4. After the data was trained, the model was used to predict values and given output was tested against actual output, then the accuracy for each algorithm was calculated. The result is displayed below
 
 Classifier used | Accuracy(in percentage) 
---- | ---
 KNN | 85
---- | ---
 Naive-Bayes | 83
---- | ---
 Decision tree | 81
 
 
