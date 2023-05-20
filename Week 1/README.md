@@ -23,3 +23,12 @@ In this task, I implemented KNN, Naive-Bayes, Decision tree classification algor
 |Decision tree|81|
 
 
+
+**Submission Result**
+---
+**• Submission Accepted**     </br>
+**• Assignment 2:** https://drive.google.com/file/d/1aQ62-UioJ5y-aKBXhk5TutvDl7uhv-ZW/view?usp=sharing
+
+
+
+
