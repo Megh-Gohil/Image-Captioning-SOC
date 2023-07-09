@@ -24,7 +24,7 @@ Defined the cnn model layers -
 3. Epochs : 50 epochs
 
 ## Week 2 : Result
-Training accuracy : 
+Training accuracy : 73%
 
 ## Week 2 : Test on validation dataset
 
