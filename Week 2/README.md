@@ -29,3 +29,9 @@ Training accuracy : 73%
 ## Week 2 : Test on validation dataset
 
 The model was tested on the validation dataset and the images are displayed.
+
+
+##Submission Result
+---
+**• Submission Accepted** </br>
+**• Assignment 3:** Will be shared soon.
